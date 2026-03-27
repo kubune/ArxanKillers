@@ -12,4 +12,6 @@ Right now the goal is to provide frida scripts or patched binaries for Brawl Sta
 ANDORID ARM64 ONLY
 
 # Note
+The scripts are tested before uploading so it should work for you!
+
 On a sidenote: this will be ETERNAL SUFFERING. PLEASE SEND HELP!
