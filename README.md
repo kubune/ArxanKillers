@@ -9,7 +9,7 @@ This simple sentence actually won't work there duh. This repository was created 
 # Goal
 Right now the goal is to provide frida scripts for Brawl Stars - all major versions (latest minor) since Arxan was first used - v48 (last arxan version) 
 
-ARM64 ONLY
+ANDORID ARM64 ONLY
 
 # Note
 On a sidenote: this will be ETERNAL SUFFERING. PLEASE SEND HELP!
