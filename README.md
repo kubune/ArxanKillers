@@ -14,4 +14,6 @@ ANDORID ARM64 ONLY
 # Note
 The scripts are tested before uploading so it should work for you!
 
+The scripts are designed in a way to be small and don't take that much space in your scripts!
+
 On a sidenote: this will be ETERNAL SUFFERING. PLEASE SEND HELP!
